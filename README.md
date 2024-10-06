@@ -1,2 +1,2 @@
 # ServiceNow-Script-Library
-A collection of scripts for common tasks in ServiceNow.
+The ServiceNow Script Library is a collection of reusable scripts and utilities that can be used to solve common tasks in ServiceNow. It includes server-side and client-side scripting, REST API examples, and integration code. The goal is to provide developers with a library of solutions that can be easily adapted and integrated into their own ServiceNow instances, speeding up development and maintaining code quality.
